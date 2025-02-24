@@ -1,4 +1,7 @@
-package main // Aziz Rustamov
+// Aziz Rustamov 
+// Урок 3: Компиляция и пакеты
+// ДЗ №2: Программа "Cleaner"
+package main
 
 import (
 	"fmt"
